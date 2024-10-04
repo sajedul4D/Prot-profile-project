@@ -1,0 +1,45 @@
+/* .home{
+
+    animation-name:active-scroll;
+   animation-timeline: scroll(y);
+}
+@keyframes active-scroll{
+    0%{
+        color: #0ef;
+        border: none;
+    }
+    65%{
+        color: #fff;
+        border: none;
+    }
+}
+.about{
+
+    animation-name:active-scroll;
+   animation-timeline: scroll(y);
+}
+@keyframes active-scroll{
+    10%{
+        color: #0ef;
+        border: none;
+    }
+    60%{
+        color: #fff;
+        border: none;
+    }
+}
+.skill{
+
+    animation-name:active-scroll;
+   animation-timeline: scroll(y);
+}
+@keyframes active-scroll{
+    42%{
+        color: #0ef;
+        border: none;
+    }
+    55%{
+        color: #fff;
+        border: none;
+    }
+} */
